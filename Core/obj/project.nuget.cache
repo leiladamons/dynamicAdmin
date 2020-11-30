@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mP4dH9KmsA2f/GMsP1zhs0JtbpSHBR0rZoJgTuYgtJZpWcqL9RsMwRE+sG8Cel0RCaunCs/6i4dNqF5Kc/uhng==",
+  "success": true,
+  "projectFilePath": "C:\\Leila\\Dynamic Construções\\Administrative Project\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leila.damons\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\leila.damons\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

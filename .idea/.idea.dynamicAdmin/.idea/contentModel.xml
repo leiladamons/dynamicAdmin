@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Leila\Dynamic Construções\Administrative Project" t="IncludeFlat">
+      <e p="API" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="API.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="EmployeesController.cs" t="Include" />
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="DataContext.cs" t="Include" />
+          <e p="Migrations" t="Include">
+            <e p="20201130061037_intialMigration.cs" t="Include" />
+            <e p="20201130061037_intialMigration.Designer.cs" t="Include" />
+            <e p="20201130062640_ChangeTypeOfDateOfBirth.cs" t="Include" />
+            <e p="20201130062640_ChangeTypeOfDateOfBirth.Designer.cs" t="Include" />
+            <e p="20201130062948_addEmployeeContact.cs" t="Include" />
+            <e p="20201130062948_addEmployeeContact.Designer.cs" t="Include" />
+            <e p="DataContextModelSnapshot.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Employee.cs" t="Include" />
+          <e p="EmployeeContract.cs" t="Include" />
+          <e p="EmployeeContractDocument.cs" t="Include" />
+          <e p="EmployeeWarning.cs" t="Include" />
+          <e p="EmployeeWarningDocument.cs" t="Include" />
+          <e p="Equipment.cs" t="Include" />
+          <e p="Permission.cs" t="Include" />
+          <e p="Role.cs" t="Include" />
+          <e p="TimeAndAttendance.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="dynamicAdmin.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\leila.damons\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\leila.damons\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_dynamicAdmin.-1645963544.00" t="ExcludeRecursive" />
+  </component>
+</project>

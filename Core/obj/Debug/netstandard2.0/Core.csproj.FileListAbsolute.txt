@@ -1,0 +1,9 @@
+C:\Leila\Dynamic Construções\Administrative Project\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Leila\Dynamic Construções\Administrative Project\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Leila\Dynamic Construções\Administrative Project\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Leila\Dynamic Construções\Administrative Project\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Leila\Dynamic Construções\Administrative Project\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Leila\Dynamic Construções\Administrative Project\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Leila\Dynamic Construções\Administrative Project\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Leila\Dynamic Construções\Administrative Project\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Leila\Dynamic Construções\Administrative Project\Core\obj\Debug\netstandard2.0\Core.pdb
