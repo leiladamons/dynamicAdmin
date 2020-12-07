@@ -9,7 +9,10 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="BaseController.cs" t="Include" />
           <e p="EmployeesController.cs" t="Include" />
+          <e p="LoginController.cs" t="Include" />
+          <e p="UsersController.cs" t="Include" />
           <e p="WeatherForecastController.cs" t="Include" />
         </e>
         <e p="Data" t="Include">
@@ -21,6 +24,8 @@
             <e p="20201130062640_ChangeTypeOfDateOfBirth.Designer.cs" t="Include" />
             <e p="20201130062948_addEmployeeContact.cs" t="Include" />
             <e p="20201130062948_addEmployeeContact.Designer.cs" t="Include" />
+            <e p="20201201070818_Passwords.cs" t="Include" />
+            <e p="20201201070818_Passwords.Designer.cs" t="Include" />
             <e p="DataContextModelSnapshot.cs" t="Include" />
           </e>
         </e>
@@ -53,7 +58,7 @@
       <e p="dynamicAdmin.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
-    <e p="C:\Users\leila.damons\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\leila.damons\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_dynamicAdmin.-1645963544.00" t="ExcludeRecursive" />
+    <e p="C:\Users\leila.damons\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\leila.damons\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_dynamicAdmin.-1645963544.00" t="ExcludeRecursive" />
   </component>
 </project>

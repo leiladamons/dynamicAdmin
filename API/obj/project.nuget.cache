@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Xz3hTk9d2vOhpZsILOQauBTMgI53Lnx/D7t89tNsteRh8LIO5E483aVccqDd1OfFGzTAElf/QzLBP3Z8u+Rjyw==",
+  "dgSpecHash": "sJr6I5ggfagypctU59Au6L2XfGbzmWXO+gYxK3oI2fzqb40eiNbPS9ewqYPFngTnPfzSqtziyHsRpvNKwpXm/w==",
   "success": true,
   "projectFilePath": "C:\\Leila\\Dynamic Construções\\Administrative Project\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\leila.damons\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\leila.damons\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leila.damons\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\leila.damons\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
