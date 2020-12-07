@@ -26,6 +26,8 @@
             <e p="20201130062948_addEmployeeContact.Designer.cs" t="Include" />
             <e p="20201201070818_Passwords.cs" t="Include" />
             <e p="20201201070818_Passwords.Designer.cs" t="Include" />
+            <e p="20201207080418_AddEmailToUser.cs" t="Include" />
+            <e p="20201207080418_AddEmailToUser.Designer.cs" t="Include" />
             <e p="DataContextModelSnapshot.cs" t="Include" />
           </e>
         </e>
